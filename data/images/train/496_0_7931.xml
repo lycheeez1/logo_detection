@@ -1,0 +1,26 @@
+<annotation>
+	<folder>generated_1</folder>
+	<filename>496_0_7931.jpg</filename>
+	<path>C:\CV_DeepLearning\LOGOdetection\img_logo\generated_1\496_0_7931.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starbucks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>243</ymin>
+			<xmax>482</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>
