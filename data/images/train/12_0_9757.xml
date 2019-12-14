@@ -1,0 +1,26 @@
+<annotation>
+	<folder>generated_2</folder>
+	<filename>12_0_9757.jpg</filename>
+	<path>C:\Users\jiyou\Desktop\generated_2\generated_2\12_0_9757.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starbucks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>118</ymin>
+			<xmax>418</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>
