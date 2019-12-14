@@ -1,0 +1,26 @@
+<annotation>
+	<folder>generated_2</folder>
+	<filename>172_0_2985.jpg</filename>
+	<path>C:\Users\jiyou\Desktop\generated_2\generated_2\172_0_2985.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>16</ymin>
+			<xmax>266</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
