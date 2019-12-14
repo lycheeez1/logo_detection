@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>132.jpg</filename>
+	<path>C:\CV_DeepLearning\LOGOdetection\img_logo\resized\132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>219</ymin>
+			<xmax>290</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
